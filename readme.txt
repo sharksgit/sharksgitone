@@ -6,3 +6,4 @@ Creating a new branch is quick.
 dev分支再加一些内容
 Creating a new branch is quick AND simple.
 And branch test1 and merge to master.
+test1 branch ......
